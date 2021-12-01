@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import "./App.css";
 import { Button } from "./components/Button";
-import { Input } from "./components/Input.jsx";
+import { Input } from "./components/Input";
+<co></co>;
 import { ClearButton } from "./components/ClearButton";
 import * as math from 'mathjs';
 
